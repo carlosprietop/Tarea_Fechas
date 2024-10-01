@@ -1,0 +1,45 @@
+* {
+  background-color: rgb(60, 59, 59);
+}
+
+#tabla_estilo {
+  width: 800px;
+  color: white;
+  font-size: 20px;
+  padding: 20px;
+  /* margin: auto; */
+  margin-top: 100px;
+  margin-left: -200px;
+}
+
+#estilo_boton1 {
+  width: 300px;
+  background-color: white;
+  padding: 5px;
+  border-radius: 10px;
+  margin-top: 100px;
+  text-align: center;
+}
+
+#estilo_boton2 {
+  width: 200px;
+  background-color: green;
+  color: white;
+  padding: 5px;
+  border-radius: 10px;
+  border-color: white;
+  margin-top: 50px;
+  margin-left: 60px;
+  text-align: center;
+  font-weight: bold;
+}
+
+#estilo_contenedor {
+  width: 300px;
+  margin: auto;
+}
+
+#id_h1 {
+  width: 500px;
+  color: white;
+}
